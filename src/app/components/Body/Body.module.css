@@ -1,0 +1,29 @@
+.Main {
+  border: 2px #120202 solid;
+  height: 40rem;
+  background-color: bisque;
+}
+.wrap {
+  border: 2px blue solid;
+  height: 20rem;
+  display: flex;
+}
+.wrap_left {
+  border: 2px #ff0000 solid;
+  height: 40rem;
+  width: 800px;
+}
+.wrap_right {
+  border: 2px #09ff00 solid;
+  height: 40rem;
+  width: 800px;
+}
+.img {
+  height: 40rem;
+  width: 20rem;
+  padding-left: 20rem;
+}
+.fill {
+  font-size: xx-large;
+  text-emphasis: bold;
+}

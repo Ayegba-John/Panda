@@ -1,0 +1,36 @@
+.Main {
+  border: 2px red solid;
+  height: 10rem;
+  background-color: bisque;
+}
+.Wrapper {
+  border: 2px yellow solid;
+  height: 2rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 76rem;
+  margin: 0 auto 0 auto;
+}
+.image {
+  height: 2rem;
+}
+.list {
+  border: 2px green solid;
+  height: 3px;
+  display: flex;
+  padding-left: 1px;
+}
+.btn {
+  height: 2.8rem;
+  background-color: orange;
+  border-radius: 8px;
+  color: azure;
+  width: 8rem;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.btn:hover {
+  background-color: #07075f; /* Change the background color on hover */
+}
