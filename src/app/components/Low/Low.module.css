@@ -1,0 +1,11 @@
+.Main {
+  border: 2px solid red;
+}
+.climb {
+  height: 14rem;
+  width: 14rem;
+}
+.bill {
+  display: flex;
+  justify-content: center;
+}

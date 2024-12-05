@@ -5,13 +5,14 @@
 }
 .wrap {
   border: 2px blue solid;
-  height: 20rem;
+  height: 23rem;
   display: flex;
 }
 .wrap_left {
   border: 2px #ff0000 solid;
   height: 40rem;
   width: 800px;
+  padding-top: 5rem;
 }
 .wrap_right {
   border: 2px #09ff00 solid;
@@ -26,4 +27,10 @@
 .fill {
   font-size: xx-large;
   text-emphasis: bold;
+  margin-top: 20rem;
+}
+.store {
+  display: flex;
+  margin-top: 2rem;
+  gap: 1rem;
 }

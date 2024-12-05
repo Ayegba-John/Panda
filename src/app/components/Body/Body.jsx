@@ -7,7 +7,8 @@ const body = () => {
         <div className={styles.wrap_left}>
           <div>
             <span className={styles.fill}>
-              A Uniquely Structured Marketplace For Digital Assets.
+              A Uniquely Structured <br /> Marketplace For Digital <br />{" "}
+              Assets.
             </span>{" "}
             <br />
             Choosing an exchange platform with great services and security is
@@ -17,7 +18,17 @@ const body = () => {
             favorite coins including Bitcoin, Ethereum, USDT and Litecoin as
             well as Gift cards such as Amazon, Google Play, Steam, etc.
           </div>
-          <div></div>
+          <div>
+            <p>Available on</p>
+          </div>
+          <div className={styles.store}>
+            <div>
+              <img src="app.svg" alt="logo for appstore" />
+            </div>
+            <div>
+              <img src="google.svg" alt="logo for google stote" />
+            </div>
+          </div>
         </div>
         <div className={styles.wrap_right}>
           <img className={styles.img} src="Hero.png" alt="mobile image" />
