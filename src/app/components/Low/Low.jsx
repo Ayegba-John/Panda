@@ -4,6 +4,27 @@ const low = () => {
   return (
     <div>
       <div className={styles.Main}>
+        <div className={styles.fisayo}>
+          <div>
+            <img className={styles.mation} src="Fisayo.png" alt="animation" />
+          </div>
+          <div>
+            <div>
+              <p>
+                Here's Fisayo Fisayo enjoys taking risks, but the type of risks
+                one would call ‘Calculated Risks’. At barely 22, Fisayo’s
+                fascination about Crypto grew by over 85% and at about 23,
+                Fisayo was convinced enough to question google on “How he can
+                own cryptocurrencies and crypto wallets in Nigeria”.
+              </p>
+            </div>
+            <div>
+              Trust Google to provide a million and one answers for Fisayo,
+              including the most relatable answers from Fisayo’s present ‘go-to
+              bestie’; Pandar.
+            </div>
+          </div>
+        </div>
         <div>
           The Only Cryptocurrency Exchange You Need Our trading platform has
           zero fees, instant payment feature, device authorization for added
