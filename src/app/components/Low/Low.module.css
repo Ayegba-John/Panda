@@ -9,6 +9,11 @@
   display: flex;
   justify-content: center;
 }
+.fisayo {
+  border: 2px yellow solid;
+  height: 60rem;
+  display: flex;
+}
 .mation {
   border: 2px blue solid;
   height: 30rem;
