@@ -8,6 +8,7 @@
 .bill {
   display: flex;
   justify-content: center;
+  gap: 1rem;
 }
 .fisayo {
   border: 2px yellow solid;
