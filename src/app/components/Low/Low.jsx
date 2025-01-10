@@ -63,6 +63,21 @@ const low = () => {
             subscriptions; transfer funds and do more in a few clicks. Giftcard
             to instant cash
           </div>
+          <div>
+            <p>
+              Trade With Confidence (our rates are hard to beat) From day one,
+              we designed and built a streamlined digital assets exchange for
+              newcomers and experts alike. While the concept is simple, we know
+              that aspects of cryptocurrency can seem a bit complex. Our help
+              center will help guide you through the basics of trading crypto
+              and how it's changing the way the world thinks about money and
+              finance. Our mission is to accelerate the adoption of
+              cryptocurrency so that you and the rest of the world can achieve
+              financial freedom and inclusion. Make easy deposits and
+              withdrawals, trade instantly at unbeatable rates, and keep track
+              of all of your coins in one convenient place.
+            </p>
+          </div>
         </div>
       </div>
     </div>
