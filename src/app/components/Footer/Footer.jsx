@@ -1,6 +1,15 @@
+import Gift from "../Gift/Gift";
+import styles from "./Footer.module.css";
+
 const footer = () => {
   return (
     <div>
+      <div className={styles.main}>
+        <Gift pic="globe.svg" text="great mind build legacy" />
+        <Gift pic="climb.jpeg" text="That is how we climb" />
+        <Gift pic="globe.svg" text="great mind build legacy" />
+      </div>
+
       <div>
         <div>
           <p>

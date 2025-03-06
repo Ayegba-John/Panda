@@ -25,6 +25,7 @@ const body = () => {
             <div>
               <img src="app.svg" alt="logo for appstore" />
             </div>
+            <div>how to integratet the things that are to be</div>
             <div>
               <img src="google.svg" alt="logo for google stote" />
             </div>
