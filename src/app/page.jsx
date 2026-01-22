@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Body from "./components/Body/Body";
 import Low from "./components/Low/Low";
 import Footer from "./components/Footer/Footer";
+import Frame from "./components/Frame/Frame";
 
 const page = () => {
   return (

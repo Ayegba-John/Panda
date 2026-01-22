@@ -47,6 +47,14 @@ const low = () => {
             and easy to process. With the Pandar app, you can manage your card
             the way you want, with maximum security.
           </p>
+          <p>
+            Use Dollar card in-app The Pandar Virtual Dollar Card allows you to
+            send and receive money from anywhere outside the country, but you
+            can also use it as a digital wallet, by funding it with your bank
+            account or debit card. Owning a Virtual Dollar card is super easy
+            and easy to process. With the Pandar app, you can manage your card
+            the way you want, with maximum security.
+          </p>
           <img
             className={styles.climb}
             src="climb.jpeg"
